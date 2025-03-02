@@ -26,7 +26,7 @@ public class Category implements Serializable {
     //顺序
     private Integer sort;
 
-    //分类状态 0标识禁用 1表示启用
+    //分类状态 0标识禁用 1表示启用1
     private Integer status;
 
     //创建时间
